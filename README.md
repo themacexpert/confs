@@ -5,6 +5,7 @@ One of the most fun ways I learn and meet new and interesting people is at confe
  * [1517 Fund Summit - San Francisco, CA - October 28, 2017](http://www.1517fund.com/)
  * [Blockchain for Social Impact Conference - Microsoft NYC - November 17, 2017](https://www.eventbrite.com/e/blockchain-for-social-impact-conference-tickets-38602836122)
  * [The North American Bitcoin Conference - Miami, FL - January 18-19, 2018](https://btcmiami.com/)
+ * [Free State Project Forum - Cryptocurrency Track - Manchester, NH - February 10, 2018](https://nhlibertyforum.com/)
  * [The MIT Bitcoin Expo - Cambridge, MA - March 17-18, 2018](http://mitbitcoinexpo.org/)
  * [Draper Blockchain Intensive - San Mateo, CA April 12-13, 2018](https://www.draperuniversity.com/executive-blockchain-program/)
  * [Boston Blockchain Week Developer Training - Boston, MA - April 25, 2018](https://developer-training.pillar.vc/)
