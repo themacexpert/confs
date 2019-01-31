@@ -12,13 +12,12 @@ One of the most fun ways I learn and meet new and interesting people is at confe
  * [IC3 - Cornell Initiative for Cryptocurrencies & Contracts Spring 2018 Retreat - New York, NY - May 10, 2018](http://www.initc3.org/)
  * [Ethereal Summit NYC - Brooklyn, NY - May 11-12, 2018](https://etherealsummit.com/)
  * [Hack.Summit("Blockchain") - Virtual and Decentralized - July 9th - 11, 2018](https://hacksummit.org/)
- 
- Upcoming
  * [Dartmouth Entrepreneur's Forum - San Francisco, CA - September 7, 2018](https://dartmouthentrepreneursforum.splashthat.com/)
- * [Founder World - Blockchain - San Francisco, - CA September 8, 2018](http://f50.io/founderworld/)
- * [Token Fest - Boston, MA - September 14, 2018](https://tokenfest.io/)
  * [Devcon IV - Prague, Czech Republic - October 30 - November 2, 2018](https://devcon4.ethereum.org/)
  
- 
+ Upcoming
+  * [EthDenver- Denver, CO - February 15 - 17, 2019](http://ethdenver.com/)
+  * [The MIT Bitcoin Expo - Cambridge, MA - March 9-10, 2019](http://mitbitcoinexpo.org/)
+  
  
 [![ic3retreat.jpg](https://s7.postimg.cc/ooccxqv3f/ic3retreat.jpg)](https://postimg.cc/image/bk6sl231j/)
