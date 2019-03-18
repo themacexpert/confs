@@ -14,10 +14,11 @@ One of the most fun ways I learn and meet new and interesting people is at confe
  * [Hack.Summit("Blockchain") - Virtual and Decentralized - July 9th - 11, 2018](https://hacksummit.org/)
  * [Dartmouth Entrepreneur's Forum - San Francisco, CA - September 7, 2018](https://dartmouthentrepreneursforum.splashthat.com/)
  * [Devcon IV - Prague, Czech Republic - October 30 - November 2, 2018](https://devcon4.ethereum.org/)
+ * [EthDenver- Denver, CO - February 15 - 17, 2019](http://ethdenver.com/)
+ * [The MIT Bitcoin Expo - Cambridge, MA - March 9-10, 2019](http://mitbitcoinexpo.org/)
  
  Upcoming
-  * [EthDenver- Denver, CO - February 15 - 17, 2019](http://ethdenver.com/)
-  * [The MIT Bitcoin Expo - Cambridge, MA - March 9-10, 2019](http://mitbitcoinexpo.org/)
+  * [Cornell Blockchain Conference - New York, NY - April 12, 2019](https://www.cbspringconference.org/)
   * [Ethereal Summit - Brooklyn, NY - May 10 - 11, 2019](https://etherealsummit.com/)
   * [Magical Crypto Conference - New York, NY - May 11-12, 2019](https://magicalcryptoconference.com)
   * [EthNYC - An EthGlobal Event - May 17-19, 2019](https://ethglobal.co/)
