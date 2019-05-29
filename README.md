@@ -16,8 +16,6 @@ One of the most fun ways I learn and meet new and interesting people is at confe
  * [Devcon IV - Prague, Czech Republic - October 30 - November 2, 2018](https://devcon4.ethereum.org/)
  * [EthDenver- Denver, CO - February 15 - 17, 2019](http://ethdenver.com/)
  * [The MIT Bitcoin Expo - Cambridge, MA - March 9-10, 2019](http://mitbitcoinexpo.org/)
- 
- Upcoming
   * [Cornell Blockchain Conference - New York, NY - April 12, 2019](https://www.cbspringconference.org/)
   * [Ethereal Summit - Brooklyn, NY - May 10 - 11, 2019](https://etherealsummit.com/)
   * [Magical Crypto Conference - New York, NY - May 11-12, 2019](https://magicalcryptoconference.com)
