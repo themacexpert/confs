@@ -1,5 +1,5 @@
 # confs
-One of the most fun ways I learn and meet new and interesting people is at conferences and technical trainings. Here are some of the things I’ve been to in the past year or so.
+One of the most fun ways I learn and meet new and interesting people is at conferences and technical trainings. Here are some of the things I’ve been to recently.
 
  * [Berkshire Hathaway Shareholders Meeting - Omaha, NE - May 5-6, 2017](http://www.berkshirehathaway.com/meet01/2017Meetinginfo.pdf)
  * [1517 Fund Summit - San Francisco, CA - October 28, 2017](http://www.1517fund.com/)
@@ -20,6 +20,9 @@ One of the most fun ways I learn and meet new and interesting people is at confe
   * [Ethereal Summit - Brooklyn, NY - May 10 - 11, 2019](https://etherealsummit.com/)
   * [Magical Crypto Conference - New York, NY - May 11-12, 2019](https://magicalcryptoconference.com)
   * [EthNYC - An EthGlobal Event - May 17-19, 2019](https://ethglobal.co/)
+ 
+ ### Upcoming
+  * [Devcon V - Osaka, Japan - October 8-11, 2019](https://devcon.org/)
   
  
 [![ic3retreat.jpg](https://s7.postimg.cc/ooccxqv3f/ic3retreat.jpg)](https://postimg.cc/image/bk6sl231j/)
