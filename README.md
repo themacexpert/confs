@@ -20,9 +20,10 @@ One of the most fun ways I learn and meet new and interesting people is at confe
   * [Ethereal Summit - Brooklyn, NY - May 10 - 11, 2019](https://etherealsummit.com/)
   * [Magical Crypto Conference - New York, NY - May 11-12, 2019](https://magicalcryptoconference.com)
   * [EthNYC - An EthGlobal Event - May 17-19, 2019](https://ethglobal.co/)
+  * [Devcon V - Osaka, Japan - October 8-11, 2019](https://devcon.org/)
  
  ### Upcoming
-  * [Devcon V - Osaka, Japan - October 8-11, 2019](https://devcon.org/)
+  * [IC3 - Cornell Initiative for Cryptocurrencies & Contracts 2019 Retreat - New York, NY - November 22, 2019](https://www.initc3.org/)
   
  
 [![ic3retreat.jpg](https://s7.postimg.cc/ooccxqv3f/ic3retreat.jpg)](https://postimg.cc/image/bk6sl231j/)
