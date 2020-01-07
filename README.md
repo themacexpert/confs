@@ -24,7 +24,7 @@ One of the most fun ways I learn and meet new and interesting people is at confe
   * [IC3 - Cornell Initiative for Cryptocurrencies & Contracts 2019 Retreat - New York, NY - November 22, 2019](https://www.initc3.org/)
  
  ### Upcoming
-  * [Cryptoeconomic Systems Conference - MIT - March 7-8, 2020](https://dci.mit.edu/cryptoeconomic-systems-conference-series)
+  * [Cryptoeconomic Systems Conference and MIT Bitcoin Expo - Cambridge, MA - March 7-8, 2020](https://dci.mit.edu/cryptoeconomic-systems-conference-series)
   
  
 [![ic3retreat.jpg](https://s7.postimg.cc/ooccxqv3f/ic3retreat.jpg)](https://postimg.cc/image/bk6sl231j/)
